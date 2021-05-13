@@ -1,0 +1,25 @@
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(145, 68, 68);
+  font-size: 50px;
+  text-align: center;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+#tacos {
+  background-color: lightseagreen;
+}
+
+#burgers {
+  background-color: rgb(129, 97, 170);
+}
+
+#pizza {
+  background-color: orangered;
+}
